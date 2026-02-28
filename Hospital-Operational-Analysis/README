@@ -1,0 +1,21 @@
+# Hospital Operational Efficiency Analysis 
+
+## 📌 Project Overview
+An end-to-end data analysis project using **SQL Server** to identify bottlenecks in hospital operations, analyze staffing efficiency, and provide data-driven recommendations to improve patient satisfaction.
+
+## 🛠️ Data Life Cycle Phases
+I followed the **Google Data Analytics** methodology:
+* **Ask:** Identified the core issue of high patient rejection rates in the Emergency department.
+* **Prepare:** Gathered data from patients, services, and staff schedules.
+* **Process:** Cleaned data using `TRIM`, handled date errors, and performed **Feature Engineering** to create the `Stay_Duration` metric.
+* **Analyze:** Performed complex joins to calculate `patients_per_staff` and identify congestion points.
+* **Share:** Documented findings in a structured SQL notebook with visual results.
+* **Act:** Provided strategic recommendations for resource allocation.
+
+## 📊 Key Insights
+* **Emergency Crisis:** The Emergency department rejects over 1.3M patients due to capacity limits.
+* **Staffing Gaps:** Identified high workload (43 patients/staff) in General Medicine, affecting morale.
+
+## 📂 Files in this Repository
+* `Hospital_Analysis.sql`: The full SQL script.
+* `Hospital_Analysis_Notebook.pdf` (or .ipynb): The formatted notebook with screenshots.
