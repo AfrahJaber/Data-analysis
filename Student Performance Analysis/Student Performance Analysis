@@ -1,1 +1,51 @@
 
+# Student Performance Analysis
+
+## Project Overview
+This project analyzes student performance to identify factors associated
+with final exam scores and provide actionable recommendations.
+
+## Tools
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Excel Formulas
+- Data Visualization
+
+## Dataset
+The dataset contains 1,000 student records and includes factors such as:
+- Study time
+- Attendance
+- Sleep hours
+- Internet access
+- Part-time job
+- Parental education
+- Previous grades
+- Final exam scores
+
+## Key Findings
+- Average Final Score: 83.5
+- 63.8% of students achieved grades A or B.
+- Study time showed a moderate positive correlation with final exam scores (r = 0.6).
+- Students with internet access scored about 5 points higher on average.
+- Students with part-time jobs scored about 3.3 points lower on average.
+- Attendance showed a weak positive correlation with final scores (r = 0.3).
+- Gender showed almost no meaningful difference in average performance.
+
+## Recommendations
+- Encourage students with lower scores to increase their study time.
+- Improve internet access for students who currently lack it.
+- Provide additional academic support for students with low attendance.
+- Consider flexible study support for students who have part-time jobs.
+
+## Dashboard
+The interactive Excel dashboard includes:
+- Average Final Score
+- Total Students
+- High Achievement Rate (A & B)
+- Study Time vs Final Exam Score
+- Previous Grade vs Final Exam Score
+- Internet Access comparison
+- Part-Time Job comparison
+- Interactive slicers
