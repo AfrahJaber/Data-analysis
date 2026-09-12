@@ -79,7 +79,7 @@ The interactive Excel dashboard includes:
 
 The Excel dashboard is interactive and includes slicers for Internet Access, Gender, and Final Grade.
 
-![Dashboard.png](Dashboard.png)
+![Student Performance Analysis Dashboard.png](Dashboard.png)
 
 > Download the Excel workbook to explore the dashboard and use the interactive slicers.
 
