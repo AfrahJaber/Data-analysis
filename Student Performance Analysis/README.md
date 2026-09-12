@@ -75,5 +75,13 @@ The interactive Excel dashboard includes:
 - Part-Time Job Comparison
 - Interactive slicers for exploring student performance
 
+## Dashboard
+
+The Excel dashboard is interactive and includes slicers for Internet Access, Gender, and Final Grade.
+
+![Student Performance Analysis Dashboard](dashboard.png)
+
+> Download the Excel workbook to explore the dashboard and use the interactive slicers.
+
 ## Project Workflow
 **Business Problem → Data Cleaning → Analysis → Pivot Tables → Dashboard → Insights & Recommendations**
