@@ -29,6 +29,15 @@ The dataset contains 1,000 student records and includes variables such as:
 - Final Exam Score
 - Final Grade
 - Gender
+## Data Source
+
+The dataset used in this project was obtained from Kaggle:
+
+**Student Performance & Study Habits Dataset** by Harshada Patil
+
+[View the original dataset on Kaggle](https://www.kaggle.com/datasets/harshadapatil31/student-performance-and-study-habits-dataset)
+
+The dataset was used for educational and portfolio purposes. The data cleaning, analysis, PivotTables, dashboard design, insights, and recommendations were completed as part of this project.
 
 ## Key Findings
 - The average final exam score is **83.5**.
