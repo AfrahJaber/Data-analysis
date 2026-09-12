@@ -67,7 +67,7 @@ The dataset was used for educational and portfolio purposes. The data cleaning, 
 
 The Excel dashboard is interactive and includes slicers for Internet Access, Gender, and Final Grade.
 
-![Student Performance Analysis Dashboard](Dashboard.png)
+![Student Performance Analysis Dashboard](Student%20Performance%20Analysis%20Dashboard.png)
 
 > Download the Excel workbook to explore the dashboard and use the interactive slicers.
 
