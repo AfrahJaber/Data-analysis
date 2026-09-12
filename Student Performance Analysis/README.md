@@ -64,22 +64,10 @@ The dataset was used for educational and portfolio purposes. The data cleaning, 
 - Consider flexible academic support or study schedules for students who have part-time jobs.
 
 ## Dashboard
-The interactive Excel dashboard includes:
-
-- Average Final Score
-- Total Students
-- High Achievement Rate (A & B)
-- Study Time vs Final Exam Score
-- Previous Grade vs Final Exam Score
-- Internet Access Comparison
-- Part-Time Job Comparison
-- Interactive slicers for exploring student performance
-
-## Dashboard
 
 The Excel dashboard is interactive and includes slicers for Internet Access, Gender, and Final Grade.
 
-![Student Performance Analysis Dashboard.png](Dashboard.png)
+![Student Performance Analysis Dashboard](Dashboard.png)
 
 > Download the Excel workbook to explore the dashboard and use the interactive slicers.
 
